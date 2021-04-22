@@ -1,7 +1,7 @@
 .header {
     height: 60px;
     display: flex;
-    align-item: center;
+    align-items: center;
     background-color:  #132921;
     position: sticky;
     top: 0;
@@ -13,7 +13,7 @@
     width: 100px;
     object-fit: contain;
     margin: 0 20px;
-    margin-top: 20px
+    margin-top: 18px
 
 }
 .header__search {
